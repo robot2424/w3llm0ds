@@ -1,57 +1,80 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_natives":"",
-      "open_ads_admob":"",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"All Mods"
-  },{
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  ],
-  "Mods":
-  [
-    {
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    
-	
-    
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_natives": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Katyusha and submarine",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/Katyusha%20and%20submarine/Katyusha%20and%20submarine.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/Katyusha%20and%20submarine/Katyusha%20and%20submarine.zip",
+			"description": "file:///android_asset/wellmods.html"
+		},
+		{
+			"id": 2,
+			"name": "Kursk nuclear submarine",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/Kursk%20nuclear%20submarine/Kursk%20nuclear%20submarine.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/Kursk%20nuclear%20submarine/Kursk%20nuclear%20submarine.zip",
+			"description": "file:///android_asset/wellmods.html"
+		},
+		{
+			"id": 3,
+			"name": "Pack on the underwater world",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/Pack%20on%20the%20underwater%20world/Pack%20on%20the%20underwater%20world.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/Pack%20on%20the%20underwater%20world/Pack%20on%20the%20underwater%20world.zip",
+			"description": "file:///android_asset/wellmods.html"
+		},
+		{
+			"id": 4,
+			"name": "seamothfromutah​",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/seamothfromutah%E2%80%8B/seamothfromutah.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/seamothfromutah%E2%80%8B/seamothfromutah.zip",
+			"description": "file:///android_asset/wellmods.html"
+		},
+		{
+			"id": 5,
+			"name": "The submarine",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/The%20submarine/The%20submarine.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Underwater/The%20submarine/The%20submarine.zip",
+			"description": "file:///android_asset/wellmods.html"
+		}
+	]
 }
