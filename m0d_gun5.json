@@ -50,7 +50,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Blade%20Murasama/Blade%20Murasama.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Blade%20Murasama/Blade%20Murasama.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 3,
@@ -58,7 +58,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Block%20Strike/Block%20Strike.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Block%20Strike/Block%20Strike.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 4,
@@ -66,7 +66,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Coffee%20Gun/Coffee%20Gun.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Coffee%20Gun/Coffee%20Gun.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 5,
@@ -74,7 +74,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Conventional%20weapons/Conventional%20weapons.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Conventional%20weapons/Conventional%20weapons.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		}
 	]
 }
