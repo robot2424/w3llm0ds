@@ -1,57 +1,80 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_natives":"",
-      "open_ads_admob":"",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"All Mods"
-  },{
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  ],
-  "Mods":
-  [
-    {
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    
-	
-    
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_natives": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "AWM",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/AWM/AWM.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/AWM/AWM.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 2,
+			"name": "Blade Murasama",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Blade%20Murasama/Blade%20Murasama.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Blade%20Murasama/Blade%20Murasama.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 3,
+			"name": "Block Strike",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Block%20Strike/Block%20Strike.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Block%20Strike/Block%20Strike.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 4,
+			"name": "Coffee Gun",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Coffee%20Gun/Coffee%20Gun.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Coffee%20Gun/Coffee%20Gun.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 5,
+			"name": "Conventional weapons",
+			"category": "Mods",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Conventional%20weapons/Conventional%20weapons.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Guns/Conventional%20weapons/Conventional%20weapons.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		}
+	]
 }
