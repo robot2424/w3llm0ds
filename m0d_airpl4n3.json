@@ -38,42 +38,42 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "Anglerfish",
+			"name": "A-10 Thunderbolt II",
 			"category": "Mods",
-			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Anglerfish/Anglerfish.jpg",
-			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Anglerfish/Anglerfish.zip",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.zip",
 			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 2,
-			"name": "animalmod",
+			"name": "Ef2000b typhoon",
 			"category": "Mods",
-			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/animalmod/animalmod.jpg",
-			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/animalmod/animalmod.zip",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/Ef2000b%20typhoon/Ef2000b%20typhoon.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/Ef2000b%20typhoon/Ef2000b%20typhoon.zip",
 			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 3,
-			"name": "Animals By KaKTyC",
+			"name": "F 14",
 			"category": "Mods",
-			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Animals%20By%20KaKTyC/Animals%20By%20KaKTyC.jpg",
-			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Animals%20By%20KaKTyC/Animals%20By%20KaKTyC.zip",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/F%2014/F%2014.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/F%2014/F%2014.zip",
 			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 4,
-			"name": "Animals mini-pack",
+			"name": "F16 Fighting Falcon",
 			"category": "Mods",
-			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Animals%20mini-pack/Animals%20mini-pack.jpg",
-			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Animals%20mini-pack/Animals%20mini-pack.zip",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.zip",
 			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 5,
-			"name": "Dinosaur skeleton",
+			"name": "F22 Raptor",
 			"category": "Mods",
-			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Dinosaur%20skeleton/Dinosaur%20skeleton.jpg",
-			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Animals/Dinosaur%20skeleton/Dinosaur%20skeleton.zip",
+			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/F22%20Raptor/F22%20Raptor.jpg",
+			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Airplane%20Fighter/F22%20Raptor/F22%20Raptor.zip",
 			"description": "file:///android_asset/wellmods.html"
 		}
 	]
