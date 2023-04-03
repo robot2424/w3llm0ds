@@ -42,7 +42,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Astronaut/Astronaut.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Astronaut/Astronaut.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 2,
@@ -50,7 +50,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Dead%20Space/Dead%20Space.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Dead%20Space/Dead%20Space.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 3,
@@ -58,7 +58,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Galaxy%20Melon/Galaxy%20Melon.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Galaxy%20Melon/Galaxy%20Melon.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 4,
@@ -66,7 +66,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Giant%20building!%20Rocket/Giant%20building!%20Rocket.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Giant%20building!%20Rocket/Giant%20building!%20Rocket.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		},
 		{
 			"id": 5,
@@ -74,7 +74,7 @@
 			"category": "Mods",
 			"image": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Pack%20dead%20space/Pack%20dead%20space.jpg",
 			"download": "https://sveg.xyz/jajalzuu/mbendilon/wellmods/Space/Pack%20dead%20space/Pack%20dead%20space.zip",
-			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+			"description": "file:///android_asset/wellmods.html"
 		}
 	]
 }
